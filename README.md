@@ -51,14 +51,14 @@ Make sure you have the following installed:
 
 ### API Documentation
 
-#### GET /api/
+#### GET /
 
 Retrieves an example message.
 
 **Request:**
 
 ```sh
-curl -X GET "http://127.0.0.1:5000/api/"
+curl -X GET "http://127.0.0.1:5000/"
 ```
 
 **Example Successful Response:**
