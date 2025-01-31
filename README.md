@@ -74,6 +74,10 @@ curl -X GET "http://127.0.0.1:5000/api/"
 - `404 Not Found` – Resource not found
 - `500 Internal Server Error` – Server encountered an issue
 
+### Hire a Developer
+
+Click [Here] to hire a python developer(https://hng.tech/hire/python-developers)
+
 ### License
 
 This project is licensed under the [MIT License](LICENSE).
