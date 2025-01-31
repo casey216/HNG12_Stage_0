@@ -10,7 +10,7 @@ CORS(app)
 
 @app.route("/")
 def index():
-    current_date = datetime.now().isoformat()
+    current_date = datetime.now().strftime('%Y-%m-%dT%H:%M:%SZ')
     info = {
         "email": "caseynzewi@gmail.com",
         "current_datetime": current_date,
